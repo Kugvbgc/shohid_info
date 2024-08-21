@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="Item"
+        android:icon="@drawable/baseline_home_24"
+        android:checkable="true"
+        />
+
+    <item
+        android:id="@+id/profile"
+        android:title="Shahid"
+        android:icon="@drawable/baseline_person_24"
+        android:checkable="true"
+        />
+
+
+
+    <item
+        android:id="@+id/Setting"
+        android:title="Setting"
+        android:icon="@drawable/baseline_settings_24"
+        android:checkable="true"
+        />
+
+</menu>
